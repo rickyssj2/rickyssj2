@@ -14,6 +14,8 @@
   - [Railway Ticketing System](https://github.com/rickyssj2/SoT-Railway-Ticketing-System)
 - <b>C++</b>
   - [School Management System](https://github.com/rickyssj2/School-Mananegment-System)
+- <b>Python</b>
+  - [SecureChat: End-to-End Encryption](https://github.com/rickyssj2/SecureChat)
 
 <h2>📚 Currently Reading</h2>
 
