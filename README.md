@@ -16,6 +16,7 @@
   - [School Management System](https://github.com/rickyssj2/School-Mananegment-System)
 - <b>Python</b>
   - [SecureChat: End-to-End Encryption](https://github.com/rickyssj2/SecureChat)
+  - [Git](https://github.com/rickyssj2/git-python)
 
 <h2>📚 Currently Reading</h2>
 
