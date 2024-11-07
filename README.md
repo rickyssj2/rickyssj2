@@ -17,6 +17,8 @@
 - <b>Python</b>
   - [SecureChat: End-to-End Encryption](https://github.com/rickyssj2/SecureChat)
   - [Git](https://github.com/rickyssj2/git-python)
+- <b>NodeJS</b>
+  - [HTTP Server](https://github.com/rickyssj2/http-server-nodejs)
 
 <h2>📚 Currently Reading</h2>
 
