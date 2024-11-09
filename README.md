@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Aryan! </h1>
 <p>I am a passionate developer dedicated to building systems and solutions that solve problems for millions of people. With experience in backend engineering, security and cloud solutions, I strive to create reliable and scalable applications.</p>
 
-[<img align="left" alt="Aryan Pandey | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img height="20px" width="40px" alt="Aryan Pandey | Gmail" width="22px" src="https://img.shields.io/badge/Gmail-ff5d5d" />][gmail]
+[<img height="20px" width="50px" alt="Aryan Pandey | LinkedIn" width="22px" src="https://img.shields.io/badge/Linkedin-0077B5" />][linkedin]
 
 [gmail]: mailto:aryanpandey048@gmail.com
 [linkedin]: https://www.linkedin.com/in/aryan-pandey-9857a3119
-<br/>
+
 
 <h2>👨‍💻 Software Development Projects</h2>
 
