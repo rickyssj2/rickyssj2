@@ -28,6 +28,7 @@
 
 <h2>📜 Certifications</h2> 
 
+- <a href="https://www.credly.com/badges/82c3b66f-6e80-4ffe-9bdb-4d6749dc420f/public_url">AWS Certified Cloud Solutions Architect Associate</a>
 - <a href="https://www.credly.com/badges/b2951add-9785-4a32-8419-9979cbe06ce9/public_url">AWS Certified Cloud Practitioner</a>
 - <a href="https://www.credly.com/badges/daaa841f-5ab7-4615-9699-99325d2a5447/public_url">Python for Data Science</a>
 - <a href="https://www.credly.com/badges/8c26e411-f15f-4ecc-b5b3-92809e62a9a9/public_url">API Security Fundamentals</a>
